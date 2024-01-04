@@ -9,8 +9,8 @@
   <component name="ChangeListManager">
     <list default="true" id="cde9da89-e0ee-4e15-aaac-4e472c4ee753" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CryptoCrypt.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CryptoCrypt.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/CryptoCrypt/Private/TheBossCharacterBase.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/CryptoCrypt/Public/TheBossCharacterBase.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/CryptoCrypt/Private/Character/TheBossCharacterBase.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/CryptoCrypt/Private/Character/TheBossCharacterBase.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/CryptoCrypt/Public/Character/TheBossCharacterBase.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/CryptoCrypt/Public/Character/TheBossCharacterBase.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +123,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1704292497393</updated>
-      <workItem from="1704292499107" duration="1973000" />
+      <workItem from="1704292499107" duration="3699000" />
     </task>
     <servers />
   </component>
